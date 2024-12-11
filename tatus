@@ -1,0 +1,55 @@
+[33mcommit 7f2407940cd65b8e83c01b9ca24ddfa9ab9087e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mferid[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/ferid[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 6c9e455 7f094c2
+Author: Nadir <aliyev0091991@gmail.com>
+Date:   Wed Dec 11 15:31:40 2024 +0400
+
+    done
+
+[33mcommit 6c9e4551d6daa20f9c74f22cd61dca2ecd194194[m
+Author: Nadir <aliyev0091991@gmail.com>
+Date:   Wed Dec 11 15:25:18 2024 +0400
+
+    both file changed
+
+[33mcommit 7f094c2872c02b25bbb88d2eae6e2728e1a9f2a1[m
+Author: Nadir <158048499+AliyevNadir@users.noreply.github.com>
+Date:   Wed Dec 11 15:23:45 2024 +0400
+
+    Update h1 tag
+
+[33mcommit 554ca27b1cffd32e354c94b983143c304b2f5ce9[m
+Merge: 160dc82 b5c855d
+Author: Nadir <aliyev0091991@gmail.com>
+Date:   Wed Dec 11 15:19:43 2024 +0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+[33mcommit 160dc8282cd5133ffb131d4af801be4b0c137c60[m
+Author: Nadir <aliyev0091991@gmail.com>
+Date:   Wed Dec 11 15:17:15 2024 +0400
+
+    add h1 tag
+
+[33mcommit b5c855d2d2ad479bcf14164e603b3c9d4183c806[m
+Author: Nadir <158048499+AliyevNadir@users.noreply.github.com>
+Date:   Wed Dec 11 15:12:55 2024 +0400
+
+    update title
+
+[33mcommit 144b60dd7bd61a75fa01cdb47da5a0a516bf6cfd[m
+Author: Nadir <aliyev0091991@gmail.com>
+Date:   Wed Dec 11 15:10:40 2024 +0400
+
+    test01
+
+[33mcommit 4ccc40ea76404dfb444b0806522019c48d838ef7[m
+Author: Nadir <aliyev0091991@gmail.com>
+Date:   Wed Dec 11 15:01:26 2024 +0400
+
+    loading
+
+[33mcommit fdd1b61cdb44a20d734adaa235e62e56651297c1[m
+Author: Nadir <aliyev0091991@gmail.com>
+Date:   Wed Dec 11 14:53:19 2024 +0400
+
+    first commit
